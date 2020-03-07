@@ -1,0 +1,10 @@
+mat-accordion,mat-expansion-panel,mat-expansion-panel-header{
+  margin:1rem auto;
+  width:80%;
+}
+
+
+
+.info-text{
+  text-align: center;
+}
